@@ -14,5 +14,5 @@ Since download all files from github.
 Select "Open Anyway".  
 ![pic2](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/Fix2.png)  
 4. Double click on StopFortiClient.app.  
-Select "Open".
+Select "Open".  
 ![pic5](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/Fix3.png)   
