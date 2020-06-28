@@ -1,0 +1,3 @@
+launchctl load /Library/LaunchAgents/com.fortinet.forticlient.credential_store.plist
+launchctl load /Library/LaunchAgents/com.fortinet.forticlient.fct_launcher.plist
+launchctl load /Library/LaunchAgents/com.fortinet.forticlient.vpn.vpn_control.plist

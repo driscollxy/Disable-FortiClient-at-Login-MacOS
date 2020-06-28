@@ -1,0 +1,1 @@
+launchctl list|grep -i forti|awk '{print $3}'|xargs -n1 launchctl remove
