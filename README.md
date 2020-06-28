@@ -20,3 +20,10 @@ Press: "Command + S" to save edited.
   
 2.4) Define as desired name, in this case "StopFortiClient.app".  
 ![pic4](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/pic4.png)  
+  
+3. Setup Login Items:  
+3.1) Open "System Preferences" > "Users and Groups"  
+3.2) Select your account, on the right hand side select "Login Items".  
+3.3) Click "+" (button) and navigate to the path that housing "StopFortiClient.app"  
+![pic5](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/pic5.png)   
+Then you can close "System Preferences".  
