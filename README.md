@@ -13,7 +13,7 @@ How to disable FortiClient at Login (Idea from https://stackoverflow.com/questio
 ```
 launchctl list|grep -i forti|awk '{print $3}'|xargs -n1 launchctl remove
 ```  
-![pic3](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/pic3.png)
+![pic3](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/pic3.png)  
 Press: "Command + S" to save edited.
 2.4) Define as desired name, in this case "StopFortiClient.app".  
 ![pic4](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/pic4.png)  
