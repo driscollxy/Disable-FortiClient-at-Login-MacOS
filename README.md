@@ -6,7 +6,7 @@ How to disable FortiClient at Login (Idea from https://stackoverflow.com/questio
 1. Open "Automator.app"  
 2. File > New  
 2.1) On "Choose a type for your document:", select "Application", click "Choose".  
-![alt pic1] (https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/Pic1.png)  
+![pic1](https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/Pic1.png)  
 2.2) On Search Field, type "run", double click on "Run Shell Script".  
 ![alt pic2] (https://github.com/JJBunt/Disable-FortiClient-at-Login/blob/master/pics/pic2.png)  
 2.3) On coding area, use following command to stop FortiCLient.  
